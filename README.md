@@ -2,7 +2,7 @@
 Web Programming Project, the theme of the application is BukaWarung to make it easier for customers to shop for their daily needs through the website using the PHP Laravel 8.0 programming language and the database using MySQL.
 
 Here are the results of the application:
-![Image of Quiz Tokoh Dunia](https://github.com/hafizelfiawedoputra/HappyBookStoreUTS/blob/main/Screen%20Shot%202021-11-30%20at%2013.03.52.png)
+![Image of Quiz Tokoh Dunia](https://github.com/hafizelfiawedoputra/BukaWarung_Project/blob/main/Screen%20Shot%202022-01-24%20at%2020.57.05.png)
 
 Note.<br>
 1. How to run the database by typing in Terminal:<br>
